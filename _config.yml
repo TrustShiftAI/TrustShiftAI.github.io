@@ -1,15 +1,8 @@
-title : "TrustShift AI Blog"
-name : "TrustShift AI"
-description : "Executive Leadership, Artificial Intelligence, Automation and Transformation, Project and Program Management, Risk and Compliance, Policy, Strategic Communication"
-url : "https://trustshiftai.github.io"
-baseurl : ""
-repository : "TrustShiftAI/TrustShiftAI.github.io"
-
 author:
-  avatar : "profile.png"
-  name : "TrustShift AI"
-  bio : "Executive leadership, AI, automation, program management, risk, policy, and strategic communication."
-  location :
-  employer : "TrustShift AI"
-  email : "0trust8@pm.me"
-  github : "TrustShiftAI"
+  name: "TrustShift AI"
+  avatar: "/images/bio-photo.jpg"
+  bio: "Technical writing, AI, people leadership, and GRC."
+  location: ""
+  employer: "TrustShift AI"
+  email: "0trust8@pm.me"
+  github: "TrustShiftAI"

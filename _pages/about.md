@@ -1,4 +1,3 @@
-cat > _pages/about.md <<'EOF'
 ---
 permalink: /
 title: "TrustShift AI Blog"
@@ -10,15 +9,13 @@ redirect_from:
 
 Welcome to the TrustShift AI Blog.
 
-This site covers:
+This site brings together writing across four areas:
 
-- Executive Leadership
-- Artificial Intelligence
-- Automation and Transformation
-- Project and Program Management
-- Risk and Compliance
-- Policy
-- Strategic Communication
+- Technical architecture and engineering
+- AI systems, evaluation, and deployment
+- People management, HR, and leadership
+- Risk management, policy, and GRC
 
-Use the navigation above to browse by topic.
-EOF
+Use the navigation above to browse by topic, or read the latest posts in the blog archive.
+
+I publish practical, technical, and operational articles for builders, managers, and governance leaders.
