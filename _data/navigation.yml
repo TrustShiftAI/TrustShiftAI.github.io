@@ -1,15 +1,26 @@
+cat > _data/navigation.yml <<'EOF'
 main:
-  - title: "Technical"
-    url: /technical/
+  - title: "Leadership"
+    url: /leadership/
 
   - title: "AI"
     url: /ai/
 
-  - title: "People & HR"
-    url: /people-hr/
+  - title: "Automation"
+    url: /automation/
 
-  - title: "Risk, Policy & GRC"
-    url: /risk-grc/
+  - title: "Programs"
+    url: /programs/
+
+  - title: "Risk & Compliance"
+    url: /risk-compliance/
+
+  - title: "Policy"
+    url: /policy/
+
+  - title: "Strategic Communication"
+    url: /strategic-communication/
 
   - title: "Blog"
     url: /year-archive/
+EOF

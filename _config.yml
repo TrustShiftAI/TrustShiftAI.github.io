@@ -8,9 +8,8 @@ repository : "TrustShiftAI/TrustShiftAI.github.io"
 author:
   avatar : "profile.png"
   name : "TrustShift AI"
-  bio : "Executive Leadership, Artificial Intelligence, Automation and Transformation, Project and Program Management, Risk and Compliance, Policy, Strategic Communication"
-  location : "DC Metro"
+  bio : "Executive leadership, AI, automation, program management, risk, policy, and strategic communication."
+  location :
   employer : "TrustShift AI"
   email : "0trust8@pm.me"
   github : "TrustShiftAI"
-  
