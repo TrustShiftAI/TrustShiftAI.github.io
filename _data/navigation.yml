@@ -1,15 +1,24 @@
 main:
-  - title: "Technical"
-    url: /technical/
+  - title: "Executive Leadership"
+    url: /leadership/
 
-  - title: "AI"
-    url: /ai/
+  - title: "Artificial Intelligence"
+    url: /artificial-intelligence/
 
-  - title: "People & HR"
-    url: /people-hr/
+  - title: "Automation & Transformation"
+    url: /automation-transformation/
 
-  - title: "Risk, Policy & GRC"
-    url: /risk-grc/
+  - title: "Project & Program Management"
+    url: /project-program-management/
+
+  - title: "Risk & Compliance"
+    url: /risk-compliance/
+
+  - title: "Policy"
+    url: /policy/
+
+  - title: "Strategic Communication"
+    url: /strategic-communication/
 
   - title: "Blog"
     url: /year-archive/

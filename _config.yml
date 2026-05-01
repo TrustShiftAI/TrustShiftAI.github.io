@@ -1,9 +1,30 @@
+title: "TrustShift AI Blog"
+email: "0trust8@pm.me"
+description: "Executive Leadership, Artificial Intelligence, Automation and Transformation, Project and Program Management, Risk and Compliance, Policy, Strategic Communication"
+
+url: "https://trustshiftai.github.io"
+baseurl: ""
+repository: "TrustShiftAI/TrustShiftAI.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-paginate
+
 author:
   name: "TrustShift AI"
   avatar: "/images/bio-photo.jpg"
-  bio: "Technical writing, AI, people leadership, and GRC."
+  bio: "Executive leadership, AI, automation, program management, risk, policy, and strategic communication."
   location: ""
   employer: "TrustShift AI"
   email: "0trust8@pm.me"
   github: "TrustShiftAI"
-  description : "Executive Leadership, Artificial Intelligence, Automation and Transformation, Project and Program Management, Risk and Compliance, Policy, Strategic Communication"
+
+permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown
