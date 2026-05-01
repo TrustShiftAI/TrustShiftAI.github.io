@@ -1,3 +1,4 @@
+cat > _config.yml <<'EOF'
 title: "TrustShift AI Blog"
 email: "0trust8@pm.me"
 description: "Executive Leadership, Artificial Intelligence, Automation and Transformation, Project and Program Management, Risk and Compliance, Policy, Strategic Communication"
@@ -28,3 +29,4 @@ author:
 
 permalink: /blog/:year/:month/:day/:title/
 markdown: kramdown
+EOF

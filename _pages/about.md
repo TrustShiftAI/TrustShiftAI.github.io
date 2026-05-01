@@ -1,3 +1,4 @@
+cat > _pages/about.md <<'EOF'
 ---
 permalink: /
 title: "TrustShift AI Blog"
@@ -18,3 +19,4 @@ This site covers:
 - Risk and Compliance
 - Policy
 - Strategic Communication
+EOF
