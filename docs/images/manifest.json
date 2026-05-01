@@ -1,0 +1,19 @@
+{
+	"name": "TrustShift AI Blog",
+	"short_name": null,
+	"description": "Executive Leadership, Artificial Intelligence, Automation and Transformation, Project and Program Management, Risk and Compliance, Policy, Strategic Communication",
+	"start_url": "/",
+	"lang": "en",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
